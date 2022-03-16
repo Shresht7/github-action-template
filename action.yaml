@@ -1,0 +1,26 @@
+# ======================
+# GITHUB-ACTION-TEMPLATE
+# ======================
+
+name: github-action-template
+author: Shresht7
+description: GitHub Action Template
+
+runs:
+  using: "node16"
+  main: "dist/index.js"
+
+# branding:
+#   icon: tag
+#   color: white
+
+# Inputs
+# ======
+
+# inputs:
+#   name:
+#     description: Your Name
+#     required: true
+
+# Outputs
+# =======
