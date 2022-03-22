@@ -1,4 +1,22 @@
-# GitHub Action Template
-------------------------
+<h1 align='center'>
+    🏗 GitHub Action Template 🎬
+</h1>
 
-GitHub Action Template
+<p align='center'>
+</p>
+
+---
+
+## 📖 Usage
+
+## 📋 Inputs
+
+## 📋 Outputs
+
+## 📃 Workflow Example
+
+---
+
+## 📑 License
+
+> [MIT License](./LICENSE)
