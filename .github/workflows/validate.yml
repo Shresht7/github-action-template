@@ -1,8 +1,8 @@
-# ==============
-# BUILD AND TEST
-# ==============
+# ========
+# VALIDATE
+# ========
 
-name: Build-Test
+name: Validate
 
 # Activation Events
 # =================
@@ -12,7 +12,7 @@ on: # rebuild any PRs and main branch changes
   push:
     branches:
       - main
-      - 'releases/*'
+      - "releases/*"
 
 # Jobs
 # ====
