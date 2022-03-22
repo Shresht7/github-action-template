@@ -9,7 +9,6 @@ description: GitHub Action Template
 runs:
   using: "node16"
   main: "dist/index.js"
-
 # branding:
 #   icon: tag
 #   color: white
@@ -24,3 +23,7 @@ runs:
 
 # Outputs
 # =======
+
+# outputs:
+#   contents:
+#     description: Contents
