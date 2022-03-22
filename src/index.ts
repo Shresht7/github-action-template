@@ -1,5 +1,6 @@
 //  Library
 import * as core from '@actions/core'
+import action from './action'
 
 //  ====
 //  MAIN
@@ -8,8 +9,7 @@ import * as core from '@actions/core'
 /** Main entrypoint to the GitHub Action */
 async function run() {
     try {
-        // await action()
-        core.notice('Hello World!')
+        await action()
     } catch (err) {
         const error = err as Error
         core.error(error)
