@@ -108,7 +108,3 @@ lib
 
 # TernJS port file
 .tern-port
-
-# GitHub Action Source Maps
-dist/*.js.map
-dist/sourcemap-register.js
