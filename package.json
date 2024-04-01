@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/Shresht7/github-action-template#readme",
   "devDependencies": {
-    "@types/node": "^20.11.24",
+    "@types/node": "^20.12.2",
     "@vercel/ncc": "^0.38.1",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.3"
   },
   "dependencies": {
     "@actions/core": "^1.10.0"
